@@ -153,7 +153,7 @@ positions.
 """
 
 ## Creating the Streamlit 
-st.set_page_config(page_title="Smart ATS Resume Demo")
+st.set_page_config(page_title="AI Resume Boost")
 st.header("Improve your Resume with ATS")
 job_description = st.text_area("Paste your Job Description: ")
 uploaded_file = st.file_uploader("Upload your Resume",
