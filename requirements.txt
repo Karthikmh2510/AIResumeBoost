@@ -7,3 +7,4 @@ langchain-community
 langchain-core
 PyPDF2
 google.generativeai
+pytest
